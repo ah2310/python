@@ -1,1 +1,9 @@
 Last changed : 2025/09/28
+
+
+Free PyCharm For Students
+https://lp.jetbrains.com/pycharm-for-students
+
+
+Thonny, Python IDE for beginners
+https://thonny.org/
