@@ -19,6 +19,7 @@ This repository is a central place for Python-related code. It may include:
 
 ## Links
 [Python - Cours 2CB](https://informatique.lmrl.lu/Notes%20de%20cours/Cours%202CB.pdf)
+
 [https://thonny.org/](https://thonny.org/)
 
 ## License
