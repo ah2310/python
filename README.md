@@ -20,6 +20,8 @@ This repository is a central place for Python-related code. It may include:
 ## Links
 [Python - Cours 2CB](https://informatique.lmrl.lu/Notes%20de%20cours/Cours%202CB.pdf)
 
+[How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
+
 [https://thonny.org/](https://thonny.org/)
 
 ## License
