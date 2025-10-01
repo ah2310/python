@@ -17,6 +17,10 @@ This repository is a central place for Python-related code. It may include:
 - Demonstrations of Python concepts
 - Experimentation with libraries and APIs
 
+## Links
+[Python - Cours 2CB](https://informatique.lmrl.lu/Notes%20de%20cours/Cours%202CB.pdf)
+[https://thonny.org/](https://thonny.org/)
+
 ## License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
