@@ -8,8 +8,8 @@ n1  = 10
 n2  = 20
 n3  = 30
 
- 
+# Using Python statistics library 
 print("Moyenne harmonique: ", statistics.harmonic_mean([n1, n2, n3]))
 
-
+# Doing simple calculation
 print("Moyenne harmonique: ", 3 / (1/n1 + 1/n2 + 1/n3))
